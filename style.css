@@ -3,12 +3,16 @@ h1{
 }
 body{
     margin: 0px;
+    color: black;
+    background-image:url(javaBG.png);
 }
+
 main{
     margin: 15px;
     padding-bottom: 100px;
     overflow: auto;
 }
+    
 a1{
     color: gold;
 }
